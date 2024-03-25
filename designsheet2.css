@@ -1,0 +1,63 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+#bng{
+    background-image:linear-gradient(rgba(68, 170, 102, 0.06),#ffd268), url("nursery.png");
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+    border:0.1px solid ;
+}
+.logo{
+    width: 90px;
+    position: absolute;
+    top:0px;
+    left: 0px;
+    height: 70px;
+}
+h1{
+    height:50px;
+    text-align: center;
+    font-size: 15px;
+    background-color:#ff1145bc;
+    background-size: cover;
+    color:#fff;
+    font-size: 30px;
+}    
+.event{
+    background-color: #ff1145bc;
+    padding: 40px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    margin-right:400px;
+    margin-left:400px;
+    margin-bottom: 80px;
+    margin-top:80px;
+    border: 10px ;
+    text-align: center;
+    color:#fff;
+    font-size: 18px;
+    font-style: italic;
+
+}
+.button{
+            display: block;
+            width: 200px;
+            margin: 20px auto;
+            padding: 10px 20px;
+            background-color: #3bfb15;
+            color: #fff;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: background-color 0.3s;
+}
+.buttton:hover {
+    background-color: #3bfb15;
+}
+.image{
+    width:500px;
+    height:160px;;
+
+}
